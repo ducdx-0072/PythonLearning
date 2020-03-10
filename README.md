@@ -20,5 +20,10 @@ This is a console app that
 
 ## 4 - Grocery App
 This is a console app that: 
-     - Allows warehouse employees to enter a list of goods (including names only - using a string separated by commas) that are available in his/her shop
+    - Allows warehouse employees to enter a list of goods (including names only - using a string separated by commas) that are available in his/her shop
     - Allows customers to check whether an item is in stock or not by inputting a name: just show “Available” or “Out of stock!” on screen
+
+## 5 - Book shop app
+This is a console app that:
+    - Allows clerks to enter a list of books (including titles and quantities – using a dictionary) that are available in his/her shop
+    - Allows customers to check whether an item is in stock or not by inputting a title: just show “N items available” or “Out of stock!” on screen
