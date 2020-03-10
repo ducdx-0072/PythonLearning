@@ -17,3 +17,8 @@ This is a console app that
     - Allow users to enter two numbers as length of legs
     - Makes sure what user entered are valid
     - Calculated and prints the hypotenuse and the area of the triangle
+
+## 4 - Grocery App
+This is a console app that: 
+     - Allows warehouse employees to enter a list of goods (including names only - using a string separated by commas) that are available in his/her shop
+    - Allows customers to check whether an item is in stock or not by inputting a name: just show “Available” or “Out of stock!” on screen
